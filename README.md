@@ -35,4 +35,5 @@ docker build -t Live-Alumni-to-Raisers-Edge .
   - When using Podman - Configure through the Host Server's Cockpit console 
 
 ## Usage
+You can access the web service from your browser at http://localhost:8501/live-alumni.
 
