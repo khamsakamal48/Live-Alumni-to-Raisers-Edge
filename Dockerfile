@@ -5,12 +5,6 @@ FROM python:3-slim-buster
 ENV PYTHONUNBUFFERED 1
 ENV PYTHONDONTWRITEBYTECODE 1
 
-## Set default values for PostgreSQL variables
-ENV DB_IP=10.199.4.96
-ENV DB_NAME=live_alumni_to_raisers_edge
-ENV DB_USER=kamal
-ENV DB_PASS=kamal1991
-
 # Install postgresql-client to interact with the database
 RUN apt-get update && apt-get install -y --no-install-recommends \
     build-essential \
