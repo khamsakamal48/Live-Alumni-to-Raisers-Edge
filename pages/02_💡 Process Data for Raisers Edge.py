@@ -23,7 +23,7 @@ def get_env_variables():
     return {
         'DB_IP': os.getenv('DB_IP'),
         'DB_USER': os.getenv('DB_USER'),
-        'DB_PASS': os.getenv('DB_PASS'),
+        'DB_PASS': quote_plus(os.getenv('DB_PASS')),
         'DB_NAME': os.getenv('DB_NAME')
     }
 
