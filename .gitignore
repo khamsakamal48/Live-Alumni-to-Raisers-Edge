@@ -77,6 +77,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+*.ipynb
 
 # IPython
 profile_default/
@@ -157,4 +158,10 @@ cython_debug/
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
-#.idea/
+.idea/
+/Final/Address.csv
+/Final/Custom_Fields.csv
+/Final/New Live Alumni Matches.csv
+/Final/Organisation Attributes.csv
+/Final/Organisations.csv
+/Final/Phones.csv

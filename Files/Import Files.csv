@@ -1,0 +1,7 @@
+﻿File Name,Source,Where to get?
+Live Alumni.csv,Live Alumni,Reports ➡ Report Wizard ➡ Download from Template: All Data for Raisers Edge
+Org Relationships.csv,Raisers Edge,DB View ➡ Import ➡ Constituent ➡ Org Relationships ➡ Format: Live Alumni - Org Relationships
+Org Relationships Attributes.csv,Raisers Edge,DB View ➡ Import ➡ Constituent ➡ Org Relationships ➡ Format: Live Alumni - Org Relationships Attributes
+Phone List.csv,Raisers Edge,DB View ➡ Import ➡ Constituent ➡ Phones ➡ Format: Live Alumni - Phones
+Custom Fields.csv,Raisers Edge,DB View ➡ Import ➡ Constituent ➡ Attributes ➡ Format: Live Alumni - Custom Fields
+Addresses.csv,Raisers Edge,DB View ➡ Import ➡ Constituent ➡ Address ➡ Format: Live Alumni - Address
